@@ -23,6 +23,13 @@ type HTTPFirewallRegionConfig struct {
 	ProvinceExceptURLPatterns []*shared.URLPattern `yaml:"provinceExceptURLPatterns" json:"provinceExceptURLPatterns"` // 排除的URL
 	ProvinceHTML              string               `yaml:"provinceHTML" json:"provinceHTML"`                           // 提示HTML
 
+	// Provider（运营商）封锁字段，供 EdgeAdmin 较新版本使用
+	AllowProviderIds          []int64              `yaml:"allowProviderIds" json:"allowProviderIds"`
+	DenyProviderIds           []int64              `yaml:"denyProviderIds" json:"denyProviderIds"`
+	ProviderHTML              string               `yaml:"providerHTML" json:"providerHTML"`
+	ProviderOnlyURLPatterns   []*shared.URLPattern `yaml:"providerOnlyURLPatterns" json:"providerOnlyURLPatterns"`
+	ProviderExceptURLPatterns []*shared.URLPattern `yaml:"providerExceptURLPatterns" json:"providerExceptURLPatterns"`
+
 	isNotEmpty bool
 
 	allowCountryIdMap  map[int64]bool
