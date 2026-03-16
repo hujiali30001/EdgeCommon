@@ -2,7 +2,7 @@ package firewallconfigs_test
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/firewallconfigs"
 	"strings"
 	"testing"
 )

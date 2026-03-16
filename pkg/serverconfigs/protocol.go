@@ -1,6 +1,6 @@
 package serverconfigs
 
-import "github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/ossconfigs"
+import "github.com/hujiali30001/freecdn-common/pkg/serverconfigs/ossconfigs"
 
 type Protocol string
 

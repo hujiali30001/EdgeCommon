@@ -6,7 +6,7 @@ import (
 	"encoding/binary"
 	"encoding/json"
 	"errors"
-	"github.com/TeaOSLab/EdgeCommon/pkg/configutils"
+	"github.com/hujiali30001/freecdn-common/pkg/configutils"
 	"io"
 	"math/big"
 	"net"

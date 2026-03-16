@@ -5,7 +5,7 @@ import (
 	"context"
 	"crypto/tls"
 	"crypto/x509"
-	"github.com/TeaOSLab/EdgeCommon/pkg/configutils"
+	"github.com/hujiali30001/freecdn-common/pkg/configutils"
 	"golang.org/x/net/http2"
 	"time"
 )

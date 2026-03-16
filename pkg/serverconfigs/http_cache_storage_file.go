@@ -1,6 +1,6 @@
 package serverconfigs
 
-import "github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
+import "github.com/hujiali30001/freecdn-common/pkg/serverconfigs/shared"
 
 type CacheDir struct {
 	Path     string               `yaml:"path" json:"path"`         // 目录

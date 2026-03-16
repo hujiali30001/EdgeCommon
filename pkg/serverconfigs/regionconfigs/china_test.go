@@ -3,7 +3,7 @@
 package regionconfigs_test
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/regionconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/regionconfigs"
 	"github.com/iwind/TeaGo/assert"
 	"testing"
 )

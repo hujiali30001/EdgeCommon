@@ -2,7 +2,7 @@
 
 package serverconfigs
 
-import "github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
+import "github.com/hujiali30001/freecdn-common/pkg/serverconfigs/shared"
 
 // HTTPCacheStaleConfig Stale策略配置
 type HTTPCacheStaleConfig struct {

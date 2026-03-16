@@ -3,7 +3,7 @@
 package langs_test
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/langs"
+	"github.com/hujiali30001/freecdn-common/pkg/langs"
 	"testing"
 )
 

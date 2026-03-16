@@ -4,7 +4,7 @@ package iplibrary_test
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeCommon/pkg/iplibrary"
+	"github.com/hujiali30001/freecdn-common/pkg/iplibrary"
 	"net"
 	"runtime"
 	"runtime/debug"

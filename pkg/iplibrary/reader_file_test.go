@@ -4,7 +4,7 @@ package iplibrary_test
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeCommon/pkg/iplibrary"
+	"github.com/hujiali30001/freecdn-common/pkg/iplibrary"
 	"github.com/iwind/TeaGo/maps"
 	stringutil "github.com/iwind/TeaGo/utils/string"
 	"net"

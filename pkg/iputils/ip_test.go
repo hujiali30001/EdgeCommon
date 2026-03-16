@@ -3,7 +3,7 @@
 package iputils_test
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/iputils"
+	"github.com/hujiali30001/freecdn-common/pkg/iputils"
 	"github.com/iwind/TeaGo/assert"
 	"runtime"
 	"testing"

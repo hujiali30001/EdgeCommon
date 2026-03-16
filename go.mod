@@ -1,4 +1,4 @@
-module github.com/TeaOSLab/EdgeCommon
+module github.com/hujiali30001/freecdn-common
 
 go 1.21
 
