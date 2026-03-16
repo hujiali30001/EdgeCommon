@@ -5,7 +5,7 @@ package shared_test
 import (
 	"testing"
 
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/shared"
 )
 
 func TestURLPattern_Match(t *testing.T) {

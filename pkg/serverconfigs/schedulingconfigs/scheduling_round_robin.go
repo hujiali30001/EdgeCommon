@@ -3,7 +3,7 @@ package schedulingconfigs
 import (
 	"sync"
 
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/shared"
 	"github.com/iwind/TeaGo/lists"
 	"github.com/iwind/TeaGo/maps"
 )

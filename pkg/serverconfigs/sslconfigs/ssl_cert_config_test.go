@@ -5,7 +5,7 @@ package sslconfigs_test
 import (
 	"testing"
 
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/sslconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/sslconfigs"
 	"github.com/iwind/TeaGo/assert"
 )
 

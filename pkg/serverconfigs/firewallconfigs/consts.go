@@ -3,7 +3,7 @@
 package firewallconfigs
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/ipconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/ipconfigs"
 	"github.com/iwind/TeaGo/types"
 )
 

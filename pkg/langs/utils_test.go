@@ -5,7 +5,7 @@ package langs_test
 import (
 	"testing"
 
-	"github.com/TeaOSLab/EdgeCommon/pkg/langs"
+	"github.com/hujiali30001/freecdn-common/pkg/langs"
 )
 
 func TestMessage(t *testing.T) {

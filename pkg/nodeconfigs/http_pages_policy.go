@@ -2,7 +2,7 @@
 
 package nodeconfigs
 
-import "github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
+import "github.com/hujiali30001/freecdn-common/pkg/serverconfigs"
 
 // HTTPPagesPolicy 全局的HTTP自定义页面设置
 type HTTPPagesPolicy struct {

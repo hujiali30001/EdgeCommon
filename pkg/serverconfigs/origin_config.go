@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/TeaOSLab/EdgeCommon/pkg/configutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/ossconfigs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/sslconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/configutils"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/ossconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/shared"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/sslconfigs"
 )
 
 // OriginConfig 源站服务配置

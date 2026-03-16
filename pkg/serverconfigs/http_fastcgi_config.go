@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/TeaOSLab/EdgeCommon/pkg/configutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
+	"github.com/hujiali30001/freecdn-common/pkg/configutils"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/shared"
 	"github.com/iwind/TeaGo/maps"
 )
 

@@ -1,6 +1,6 @@
 package systemconfigs
 
-import "github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
+import "github.com/hujiali30001/freecdn-common/pkg/serverconfigs/shared"
 
 // SecurityConfig 安全相关配置
 type SecurityConfig struct {

@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/TeaOSLab/EdgeCommon/pkg/langs"
+	"github.com/hujiali30001/freecdn-common/pkg/langs"
 	"github.com/iwind/TeaGo/Tea"
 	_ "github.com/iwind/TeaGo/bootstrap"
 	"github.com/iwind/TeaGo/lists"
@@ -180,7 +180,7 @@ func runGenerate() {
 package codes
 
 import(
-	"github.com/TeaOSLab/EdgeCommon/pkg/langs"
+	"github.com/hujiali30001/freecdn-common/pkg/langs"
 )
 
 const (
@@ -226,7 +226,7 @@ const (
 package messages
 
 import(
-	"github.com/TeaOSLab/EdgeCommon/pkg/langs"
+	"github.com/hujiali30001/freecdn-common/pkg/langs"
 )
 
 func init() {

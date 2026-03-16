@@ -5,7 +5,7 @@ package iplibrary_test
 import (
 	"testing"
 
-	"github.com/TeaOSLab/EdgeCommon/pkg/iplibrary"
+	"github.com/hujiali30001/freecdn-common/pkg/iplibrary"
 )
 
 func TestNewTemplate(t *testing.T) {

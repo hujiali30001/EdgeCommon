@@ -2,7 +2,7 @@
 
 package userconfigs
 
-import "github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
+import "github.com/hujiali30001/freecdn-common/pkg/serverconfigs/shared"
 
 type UserTicketStatus = string
 
